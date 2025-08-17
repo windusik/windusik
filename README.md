@@ -15,7 +15,6 @@
 ## 🏆 Достижения
 ![](https://github-profile-trophy.vercel.app/?username=windusik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Рандомная цитата
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
