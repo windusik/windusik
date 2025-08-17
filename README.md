@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=windusik&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=windusik&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Достижения
 ![](https://github-profile-trophy.vercel.app/?username=windusik&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Рандомная цитата
